@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: rgba(206, 202, 202, 0.533);
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 15%;
+}
+.clock{
+    border: 5px solid rgba(146, 142, 142, 0.727);
+    height: 100px;
+    width: 700px;
+    font-size: 5rem;
+    text-align: center;
+    color: aliceblue;
+}
